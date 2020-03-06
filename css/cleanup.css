@@ -18,3 +18,7 @@ div#wall #tag-3.slick.wicked {
 #wall .parent + .parent > #tag-5.slick {
     display: none;
 }
+
+#wall .parent + .parent + .parent div:last-child #tag-6 {
+    display: none;
+}
